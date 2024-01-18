@@ -8,7 +8,7 @@
 		<version>1.0.0</version>
 		<description>Sec1 Security plugin help developers/teams to scan their SCM for open source vulnerabilities against Sec1 Security DB</description>
 		<vendor>
-			<name>Sec1 Pvt. Ltd.</name>
+			<name>Secone Software Pvt. Ltd.</name>
 			<url>https://sec1.io</url>
 		</vendor>
 	</info>
