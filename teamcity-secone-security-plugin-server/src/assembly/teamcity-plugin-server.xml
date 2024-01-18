@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="urn:schemas-jetbrains-com:teamcity-plugin-v1-xml">
+	<info>
+		<name>secone-security</name>
+		<display-name>Sec1 Security</display-name>
+		<version>1.0.0</version>
+		<description>Sec1 Security plugin help developers/teams to scan their SCM for open source vulnerabilities against Sec1 Security DB</description>
+		<vendor>
+			<name>Sec1 Pvt. Ltd.</name>
+			<url>https://sec1.io</url>
+		</vendor>
+	</info>
+	<deployment use-separate-classloader="true" />
+</teamcity-plugin>
